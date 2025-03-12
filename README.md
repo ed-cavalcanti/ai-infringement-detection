@@ -1,4 +1,4 @@
-## Classificação de transcrição de vídeos
+## Detecção de infrações eleitorais
 
 Repositório utilizado para armazenar os códigos de teste para os experimentos de pesquisa relacionado a detecção de infrações eleitorais em imagens de redes sociais de políticos.
 
